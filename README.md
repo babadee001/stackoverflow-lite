@@ -9,6 +9,15 @@ NOTE: all endpoints are tested with POSTMAN.
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
+#Features
+- page can get all questions
+- page can get specific questions
+- user can get post questions
+- users can post answers
+- users can delete an answers
+- users can also update questions
+- users can delete questions
+
 # Description
 This api-endpoints run a get, post, put and delete request..
 https://safe-dawn-45814.herokuapp.com/api/v1/questions runs all questions posted on the site,
