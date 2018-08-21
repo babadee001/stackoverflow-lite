@@ -30,6 +30,10 @@ https://safe-dawn-45814.herokuapp.com/api/v1/questions/:id/answers this link hos
 This app is deployed using heroku
 https://safe-dawn-45814.herokuapp.com/api/v1/questions
 
+# GITHUB page of UI
+this deploys the UI using github hosting page
+https://captainprime.github.io/ui-templates/index.html
+
 # Technology used
 - node.js
 - express.js
