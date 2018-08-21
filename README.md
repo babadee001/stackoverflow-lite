@@ -6,7 +6,6 @@
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-mg.shields.io/github/license/mashape/apistatus.svg)
 
 # stack-overflow-lite-API
 NOTE: all endpoints are tested with POSTMAN.
