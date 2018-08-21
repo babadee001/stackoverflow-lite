@@ -1,0 +1,8 @@
+{
+    "name": "Node.js StackOveflow-lite-API",
+    "description": "An API app using node and express",
+    "repository": "https://github.com/captainPrime/API-endpoint.git",
+    "logo": "",
+    "keyword": ["node", "express", "static"],
+    "image": ""
+}
